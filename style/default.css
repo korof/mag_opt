@@ -213,7 +213,7 @@ margin-right: 30px;
     font-size: 11px;
     border: 2px solid #eaeaea;
     background-color: #ffffff;
-    display: none;
+    /*display: none;*/
     position: absolute;
     left: 0px;
 }
@@ -228,7 +228,7 @@ margin-right: 30px;
 }
 .main_menu .sub:hover .submenu {
     margin: 0;
-    display: block;
+    display: block !important;
 }
 .submenu li a:hover{
 }

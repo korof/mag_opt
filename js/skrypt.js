@@ -67,3 +67,6 @@ $('.add_tekst').append("Lorem ipsum dolor sit amet, consectetuer adipiscing elit
 $(document).ready(function() {
   $("#article .post").baseline(24);
 });
+$(document).ready(function() {
+  $(".submenu").hide(300);
+});
